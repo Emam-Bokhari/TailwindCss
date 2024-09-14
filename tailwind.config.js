@@ -6,7 +6,6 @@ module.exports = {
       primary: "poppins",
       secondary: "montserrat",
     },
-
     extend: {},
   },
   plugins: [],
