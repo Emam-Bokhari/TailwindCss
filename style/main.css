@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn{
+    @apply py-2 px-4 rounded-md  font-medium
+}
+
+.btn-checkout{
+    @apply bg-green-500 text-white 
+}
+
+.btn-cart{
+    @apply bg-orange-500 text-white
+}
