@@ -25,3 +25,15 @@
         @apply bg-orange-500 hover:bg-orange-600 transition-all duration-300 text-white
     }
 }
+
+@layer utilities{
+    .small-text{
+        font-size:12px;
+    }
+    .medium-text{
+        font-size:16px;
+    }
+    .large-text{
+        font-size:18px;
+    }
+}
